@@ -2,24 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forget past, Think future.</title>
-    <description>dWrite an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>部落格有關 技術 &amp; 生活
 </description>
     <link>http://absourd1314.github.io/blog/</link>
     <atom:link href="http://absourd1314.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 May 2015 02:15:40 +0800</pubDate>
-    <lastBuildDate>Sat, 23 May 2015 02:15:40 +0800</lastBuildDate>
+    <pubDate>Sat, 23 May 2015 21:31:44 +0800</pubDate>
+    <lastBuildDate>Sat, 23 May 2015 21:31:44 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>1st</title>
-        <description>
-</description>
-        <pubDate>Sat, 23 May 2015 01:42:09 +0800</pubDate>
-        <link>http://absourd1314.github.io/blog/2015/05/23/1st.html</link>
-        <guid isPermaLink="true">http://absourd1314.github.io/blog/2015/05/23/1st.html</guid>
-        
-        
-      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
