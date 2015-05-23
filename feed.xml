@@ -5,8 +5,8 @@
     <description>Simple Life</description>
     <link>http://absourd1314.github.io/blog/</link>
     <atom:link href="http://absourd1314.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 May 2015 00:07:16 +0800</pubDate>
-    <lastBuildDate>Sun, 24 May 2015 00:07:16 +0800</lastBuildDate>
+    <pubDate>Sun, 24 May 2015 00:09:52 +0800</pubDate>
+    <lastBuildDate>Sun, 24 May 2015 00:09:52 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -14,9 +14,8 @@
         <description>&lt;p&gt;Hi people, &lt;br /&gt;
 I choose &lt;a href=&quot;http://octopress.org/&quot;&gt;Octopress 3.0&lt;/a&gt; and themed with &lt;a href=&quot;https://github.com/itsrifat/rifyll&quot;&gt;rifyll&lt;/a&gt; as my personal cat-style blog.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;$ gem install octopress
-$ hu
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;octopress&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hu&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 23 May 2015 23:10:04 +0800</pubDate>
         <link>http://absourd1314.github.io/blog/2015/05/23/1st-post-and-say-hi.html</link>
