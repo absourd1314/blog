@@ -125,6 +125,22 @@
 <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1</span> <span class="c"># This builds a blog site dir under `_site`.</span>
 <span class="lineno">2</span> <span class="nv">$ </span>jekyll build</code></pre></div>
 
+<p><code>optional</code> <code>step 5</code> Preview locally (<strong>NOTE</strong> before deployment please kill this process)</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1</span> <span class="c"># This runs a server up at port 4000.</span>
+<span class="lineno">2</span> <span class="c"># Server address: http://127.0.0.1:4000/</span>
+<span class="lineno">3</span> <span class="nv">$ </span>jekyll serve <span class="p">&amp;</span></code></pre></div>
+
+<p><code>step 6</code> Set up deployment of website to GitHub</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1</span> <span class="c"># setup method of deployment to github</span>
+<span class="lineno">2</span> <span class="nv">$ </span>octopress deploy init git --url git@github.com:NAME/NAME.github.io.git</code></pre></div>
+
+<p><code>step 7</code> Deploy the built website</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1</span> <span class="c"># deploy built site</span>
+<span class="lineno">2</span> <span class="nv">$ </span>octopress deploy</code></pre></div>
+
 
       </article>
     </div>
