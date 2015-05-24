@@ -103,20 +103,23 @@
 
 <p>Installation steps:</p>
 
-<ol>
-  <li>Install Jekyll and Octopress 3.</li>
-</ol>
+<p><code>step 1</code> Install Jekyll and Octopress 3.</p>
 
 <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1</span> <span class="c"># Installing Octopress 3 automatically installs Jekyll as a dependency.</span>
 <span class="lineno">2</span> <span class="nv">$ </span>gem install octopress</code></pre></div>
 
-<ol>
-  <li>Download <a href="https://github.com/itsrifat/rifyll">Rifyll</a> themed Octopress blog scaffold.</li>
-  <li>New a post</li>
-</ol>
+<p><code>step 2</code> Download <a href="https://github.com/itsrifat/rifyll">Rifyll</a> themed Octopress blog scaffold.</p>
+
+<p><code>step 3</code> Cd to Rifyll directory &amp; New a post</p>
 
 <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1</span> <span class="c"># This generates a new post yyyy-mm-dd-title.markdown under `_post`.</span>
-<span class="lineno">2</span> <span class="nv">$ </span>octopress new post <span class="s2">&quot;title&quot;</span></code></pre></div>
+<span class="lineno">2</span> <span class="nv">$ </span><span class="nb">cd </span>rifyll-master
+<span class="lineno">3</span> <span class="nv">$ </span>octopress new post <span class="s2">&quot;title&quot;</span></code></pre></div>
+
+<p><code>step 4</code> Build _site</p>
+
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="lineno">1</span> <span class="c"># This builds a blog site dir under `_site`.</span>
+<span class="lineno">2</span> <span class="nv">$ </span>jekyll build</code></pre></div>
 
 
       </article>
